@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![card](https://github-readme-stats.vercel.app/api?username=aanacarolina&theme=onedark)](https://github.com/aanacarolina/)
+
 [![aanacarolina](https://github-readme-stats.vercel.app/api/top-langs/?username=aanacarolina&hide=html&layout=compact&theme=tokyonight)](https://github.com/aanacarolina/)
 
 
