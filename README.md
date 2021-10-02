@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![aanacarolina](https://github-readme-stats.vercel.app/api/top-langs/?username=aanacarolina&hide=html&layout=compact&theme=default)](https://github.com/aanacarolina/)
+[![aanacarolina](https://github-readme-stats.vercel.app/api/top-langs/?username=aanacarolina&hide=html&layout=compact&theme=Tokyonight)](https://github.com/aanacarolina/)
 
 
 <!--
