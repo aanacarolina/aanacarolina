@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanacarolina&label=Profile%20views&color=0e75b6&style=flat" alt="aanacarolina" /> </p>
 
-[![card](https://github-readme-stats.vercel.app/api?aanacarolina&theme=dark)](https://github.com/aanacarolina/)
+[![card](https://github-readme-stats.vercel.app/api?username=aanacarolina&theme=dark)](https://github.com/aanacarolina/)
 
 [![aanacarolina](https://github-readme-stats.vercel.app/api/top-langs/?username=aanacarolina&hide=html&layout=compact&theme=dark)](https://github.com/aanacarolina/)
 
